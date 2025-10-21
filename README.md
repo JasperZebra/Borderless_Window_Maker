@@ -1,7 +1,9 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/JasperZebra/Borderless-Window-Maker?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)
-![Total Downloads](https://img.shields.io/github/downloads/JasperZebra/Borderless-Window-Maker/total?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66) 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/JasperZebra/Borderless_Window_Maker?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)
+![Total Downloads](https://img.shields.io/github/downloads/JasperZebra/Borderless_Window_Maker/total?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66) 
 ![Platform](https://img.shields.io/badge/platform-windows-00ffff?style=for-the-badge&logo=windows&logoColor=00ffff&labelColor=1a4d66)
 ![Made for](https://img.shields.io/badge/made%20for-any_windowed_application-00ffff?style=for-the-badge&logo=window&logoColor=00ffff&labelColor=1a4d66) 
+![Tool Type](https://img.shields.io/badge/type-window%20utility-00ffff?style=for-the-badge&logo=tools&logoColor=00ffff&labelColor=1a4d66)
+![License](https://img.shields.io/badge/license-MIT-00ffff?style=for-the-badge&logo=opensourceinitiative&logoColor=00ffff&labelColor=1a4d66)
 
 # Borderless Window Maker
 
